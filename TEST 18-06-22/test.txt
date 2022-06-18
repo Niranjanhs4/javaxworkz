@@ -1,0 +1,83 @@
+1) Answer:-Java is not pure object oriented language Because java uses primitive data types such as int float char boolean.the developers of java 
+made these primitive data types as objects.But the primitive data types such as int float are more faster than objects
+
+2)java doesnt have pointers Because it doesnt need them for general pupose of OOP programming.
+
+4)Basically the infinite loop happens whenthe condition in the while loop always evaluates true. this can happen when the variables within the the loop arent updated correctly
+or aren't updated at all.
+
+5)YES. we can overload the main method in java.
+
+6)Java main method is always static,so that compiler can call it without the creation of an object of the class.
+
+7)A static variable is instantiated once, a static method can be called from a class without instantiating an instance othe class,
+a static class csnnot be instantiated.
+
+9)Heap,stack,code and static
+
+10) Instance Variable:- 
+      1.a variable that is bounded to the object itself
+      2.it is possible to use access modifiers for the instance variables
+      3.can have default values
+      4.instance variables are created at the creation of object.
+      
+    Local Variable:-
+      1. A variable that is typically used in a method or a constructor
+      2.it is not possible to use access modifiers for the local bariables
+      3.do not have default values
+      4.Local variables create when entering the method or a constructor.
+
+11) Boostrap class loader searches for main function in the class file, if main function is not declared as static, it will through
+an error Because declaring function as static allows it to be called without instantiating that class file where the main function is.
+
+12)The JDk is a platform to building Java applications.
+   JVM and JRE are the variants.
+
+13)JDK is mainly used for code execution and development of the application.
+   
+   JRE is mainly responsible for creating environment for code execution.
+
+   JVM on other hand specifies all the implementation and responsible to provide these implementations to JRE
+
+14)NO , we cannot use
+
+16)Polymorphism is a many forms and it occurs when we have many classes that are related to each other by inheritance.
+
+17)Data Abstraction is the process that certain details are hidden and some essential information are shown to the users.
+
+18)Encapsulation is the process of wrapping code and data together into a single unit.
+
+19) Abstract Class
+     1.this can have abstract and non abstract methods
+     2.doesnt support multiple inheritance.
+     3.can have final,non final, static and nonstatic.
+     4.can provide implementation of interface.
+     5.Abstract keyword is used to declare abstract class.
+  
+   Interface
+     1.can have only Abstract methods.
+     2.supports Multiple inheritance.
+     3.has only static and final varaibles.
+     4.cant provide the implementation of abstract class.
+     5.interface keyword is used to declare the interface.
+
+20)if a class has multiple methods having same name but different in parameters.
+
+21)if subclass has the same method that declared in parent class.
+
+22)NO.
+
+27)Constructor is a block of codes that similar to the method
+   YES we can overload .
+
+28)there are two types of constructor
+    1.default constructor
+    2.parameterised constructor
+
+29)There are 5 types of inheritance
+   1.single
+   2.Multilevel
+   3.Hierarchical
+   4.Multiple
+   5.Hybrid. 
+
